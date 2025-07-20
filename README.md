@@ -20,7 +20,7 @@ The dataset contains sales information for a large number of video games release
 
 The raw data was cleaned and preprocessed using SQL to ensure consistency and accuracy.
 
-##  Tools & Technologies Used
+##  Tools  Used
 
 - **SQL Server** for data cleaning and transformation (`vg_sql_script.sql`)
 - **Power BI** for building interactive visualizations (`vg_sales_dashboard.pbix`)
